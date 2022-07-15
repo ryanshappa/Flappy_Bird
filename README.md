@@ -4,8 +4,8 @@ Flappy Bird the game to play for fun, or compete against the machine learning co
 
 # Instructions
 
-Simply run flap_bird.py to play yourself
-Run Flappy_Bird(AI) to watch the AI train itself to play the game
+Simply run _Flap_Bird.py_ to play yourself
+Run _Flappy_Bird(AI)_ to watch the AI train itself to play the game
 
 # Config and IMGS
 Make sure all imgs are in the same folder in order to run either python program
