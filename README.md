@@ -3,7 +3,7 @@
 Flappy Bird the game to play for fun, or compete against the machine learning computer.
 
 # Instructions
-Install all packaged needed to run
+Install all packages needed to run
 
 $ pip install NEAT \
 $ pip install pandas \
