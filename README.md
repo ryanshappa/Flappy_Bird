@@ -3,8 +3,13 @@
 Flappy Bird the game to play for fun, or compete against the machine learning computer.
 
 # Instructions
+Install all packaged needed to run
+$ pip install NEAT \
+$ pip install pandas \ 
+$ pip install pickle \
+$ pip install pygame 
 
-Simply run _Flap_Bird.py_ to play yourself
+Once all packages are installed to local, Simply run _Flap_Bird.py_ to play yourself
 Run _Flappy_Bird(AI)_ to watch the AI train itself to play the game
 
 # Config and IMGS
