@@ -4,8 +4,8 @@ Flappy Bird the game to play for fun, or compete against the machine learning co
 
 # Instructions
 Install all packaged needed to run
-$ pip install NEAT 
 
+$ pip install NEAT \
 $ pip install pandas \ 
 $ pip install pickle \
 $ pip install pygame 
